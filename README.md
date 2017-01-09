@@ -1,6 +1,4 @@
-# Logstash Plugin
-
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-example.svg)](https://travis-ci.org/logstash-plugins/logstash-output-example)
+# Sentry Logstash Plugin
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
